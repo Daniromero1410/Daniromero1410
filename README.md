@@ -20,7 +20,7 @@
 
 <h2 align ="center"> 📊 GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniromero1410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniromero1410&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
