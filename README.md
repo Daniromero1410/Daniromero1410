@@ -11,7 +11,7 @@
 </div>
 
 <h5>- I am a <strong>Software Engineer</strong> 👩‍💻 and a sports enthusiast 🎾</h5>
-<h5>- 🫰 Fluent in Spanish and English 🫰</h5>
+<h5>- 🫰 Fluent in Spanish and English B2 🫰</h5>
 <h5>- Ideas come every day from the least expected places 🙌 I love getting involved in anything related to software, helping others, and creating my own products. I believe anyone can code as long as they have the passion for it. "Like everything," I try to make my ideas grow until they become a reality, which has led me to participate in research projects. I love geography 🌄 and enjoy learning new things every day.</h5>
 <h5>- 👾 Ideas are the engine of progress; let's create ideas together!</h5>
 <h5>- 💬 Currently studying at the University of Santander UDES.</h5>
