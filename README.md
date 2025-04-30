@@ -22,11 +22,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniromero1410&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
