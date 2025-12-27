@@ -28,7 +28,7 @@ class DanielRomero:
             "company": "GESTAR INNOVACIÓN (POSITIVA Compañía de Seguros)",
             "role": "Software Engineer - Big Data & AI",
             "focus": [
-                "Healthcare data ETL pipelines (100K+ records)",
+                "Healthcare data ETL pipelines (1M + records)",
                 "ML models for provider network analytics",
                 "Automated data validation systems"
             ],
