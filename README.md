@@ -220,14 +220,6 @@ Impact: 80% time reduction
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniromero1410&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-![GitHub Streak(https://streak-stats.demolab.com?user=Daniromero1410-SA&theme=react&layout=compact)
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daniromero1410&theme=radical&hide_border=true)
