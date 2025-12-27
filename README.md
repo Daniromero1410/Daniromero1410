@@ -30,8 +30,7 @@ class DanielRomero:
             "focus": [
                 "Healthcare data ETL pipelines (100K+ records)",
                 "ML models for provider network analytics",
-                "Automated data validation systems",
-                "GIS tools for medical services analysis"
+                "Automated data validation systems"
             ],
             "stack": ["Python", "pandas", "TensorFlow", "SQL", "SFTP", "Excel"]
         }
