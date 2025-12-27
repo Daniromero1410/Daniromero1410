@@ -26,7 +26,7 @@ class DanielRomero:
     def current_work(self):
         return {
             "company": "GESTAR INNOVACIÓN (POSITIVA Compañía de Seguros)",
-            "role": "Senior Software Engineer - Big Data & AI",
+            "role": "Software Engineer - Big Data & AI",
             "focus": [
                 "Healthcare data ETL pipelines (100K+ records)",
                 "ML models for provider network analytics",
