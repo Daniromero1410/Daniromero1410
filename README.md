@@ -25,18 +25,21 @@ class DanielRomero:
         
     def current_work(self):
         return {
-            "company": "S.O.L (Soluciones Ocupacionales y Laborales)",
-            "role": "CTD Junior & Solutions Developer",
-            "period": "Sept 2023 - Present",
-            "focus": ["Web Development", "Data Management", "Process Automation"]
+            "company": "GESTAR INNOVACIÓN (POSITIVA Compañía de Seguros)",
+            "role": "Senior Software Engineer - Big Data & AI",
+            "focus": [
+                "Healthcare data ETL pipelines (100K+ records)",
+                "ML models for provider network analytics",
+                "Automated data validation systems",
+                "GIS tools for medical services analysis"
+            ],
+            "stack": ["Python", "pandas", "TensorFlow", "SQL", "SFTP", "Excel"]
         }
     
-    def previous_experience(self):
+    def side_projects(self):
         return {
-            "company": "GEATIC",
-            "role": "GIS Development Intern", 
-            "period": "June 2024 - Nov 2024",
-            "tech": ["Python", "ArcPy", "ArcGIS", "Experience Builder"]
+            "S.O.L": "CTD Junior & Solutions Developer (Sept 2023 - Present)",
+            "GEATIC": "GIS Development Intern (June - Nov 2024)"
         }
 ```
 
@@ -96,13 +99,50 @@ class DanielRomero:
 
 ## 💼 Work Experience
 
-**🚀 CTD Junior & Solutions Developer** @ **S.O.L**  
-📅 September 2023 - Present  
-Leading the company's tech strategy, combining web development, data management, and process automation.
+### 🏥 Senior Software Engineer - Big Data & AI
+**GESTAR INNOVACIÓN** (POSITIVA Compañía de Seguros) | Current  
+📍 Healthcare Provider Network Management
 
-**🗺️ GIS Development Intern** @ **GEATIC**  
-📅 June 2024 - November 2024  
-Implemented Python with ArcPy for pipeline geoprocessing and advanced database management.
+**What I do:**
+- 📊 Develop **ETL pipelines** processing **100,000+ healthcare records**
+- 🤖 Build **ML models** for provider network analytics and optimization
+- ✅ Implement **automated data validation** and quality control systems
+- 🗺️ Create **GIS tools** for spatial analysis of medical services
+- 📈 Design **data consolidation systems** for healthcare tariff management
+
+**Key Project:** T25 Healthcare Consolidator
+- Automated extraction and validation of medical service tariffs
+- SFTP integration with GoAnywhere servers
+- Processing massive Excel files with semantic validation
+- **Impact:** Reduced manual processing time by 80%
+
+**Tech Stack:** Python • pandas • openpyxl • TensorFlow • SQL • SFTP • Excel
+
+---
+
+### 🚀 CTD Junior & Solutions Developer
+**S.O.L (Soluciones Ocupacionales y Laborales)** | September 2023 - Present
+
+Leading tech strategy combining web development, data management, and process automation.
+
+**Responsibilities:**
+- Web application development and digital transformation
+- Database design and optimization
+- Business process automation
+- Technology infrastructure planning
+
+---
+
+### 🗺️ GIS Development Intern
+**GEATIC** | June 2024 - November 2024
+
+**Projects:**
+- Implemented **Python with ArcPy** for oil pipeline geoprocessing
+- Developed spatial databases for infrastructure management
+- Built web mapping applications with **Experience Builder**
+- Automated GIS workflows for large-scale datasets
+
+**Tech Stack:** Python • ArcPy • ArcGIS • PostgreSQL/PostGIS • Experience Builder
 
 ---
 
@@ -128,6 +168,7 @@ Deep Learning system for Formula 1 predictions
 Tech: TensorFlow, Flask, scikit-learn
 Features: 11 predictive variables
 Deployment: Docker, Render
+Status: Production-ready
 ```
 **[View Repository →](https://github.com/Daniromero1410/f1-race-predictor)**
 
@@ -140,6 +181,7 @@ Seismic analysis for Bucaramanga Nest
 Tech: Python, Geopandas, Folium
 Features: GIS export (Shapefile, KML)
 Focus: Geophysical research
+Research: Regional seismology
 ```
 **[View Repository →](https://github.com/Daniromero1410/siasic-santander)**
 
@@ -154,6 +196,7 @@ Intelligent CV parser and job matching
 Tech: PyPDF2, BeautifulSoup
 Features: Web scraping, Smart ranking
 Target: Colombian job portals
+CV Analysis: 100+ skills recognized
 ```
 **[View Repository →](https://github.com/Daniromero1410/job-search-automation)**
 
@@ -166,6 +209,7 @@ ETL system for healthcare data
 Tech: Python, pandas, SFTP
 Scale: 100,000+ records
 Features: Auto validation
+Impact: 80% time reduction
 ```
 **[View Repository →](https://github.com/Daniromero1410/consolidador-t25)**
 
@@ -197,44 +241,87 @@ Features: Auto validation
 ```javascript
 const daniel = {
   currentFocus: [
-    "Finishing Software Engineering degree at UDES",
+    "Building ETL pipelines for healthcare analytics at GESTAR",
+    "Developing ML models for medical provider networks",
     "Academic exchange at Technical University of Riga",
-    "Building ML models for real-world applications",
-    "Exploring GIS and spatial data analysis"
+    "Finishing Software Engineering degree at UDES"
   ],
   learning: [
     "Advanced Deep Learning architectures",
+    "Big Data processing with Apache Spark",
     "Cloud platforms (AWS, GCP)",
-    "Microservices with Docker",
-    "Real-time data processing"
+    "Microservices with Docker & Kubernetes",
+    "Real-time data streaming"
   ],
   interests: [
     "Machine Learning & AI",
-    "Data Engineering",
-    "GIS & Spatial Analysis", 
+    "Healthcare Data Analytics", 
+    "Big Data Engineering",
+    "GIS & Spatial Analysis",
     "Backend Development",
     "Mountaineering 🏔️"
+  ],
+  achievements: [
+    "Processing 100K+ healthcare records daily",
+    "80% reduction in data processing time",
+    "ML models deployed in production",
+    "Multiple research projects published"
   ]
 };
 ```
 
 ---
 
-## 💡 Skills
+## 💡 Areas of Expertise
 
-**Hard Skills:** Machine Learning • Deep Learning • Data Analysis • ETL Pipelines • GIS Processing • Backend Development • Database Design • API Development • IoT with Microcontrollers
+**Healthcare Data Analytics**
+- ETL pipeline development for medical data
+- Healthcare provider network optimization
+- Medical tariff data consolidation
+- Regulatory compliance automation
 
-**Soft Skills:** Leadership • Teamwork • Critical Thinking • Problem Solving • Creativity • Proactive • Empathy
+**Machine Learning & AI**
+- Deep Learning model development
+- Predictive analytics for business intelligence
+- Model deployment and optimization
+- Time series forecasting
+
+**Data Engineering**
+- Big Data processing (100K+ records)
+- Database design and optimization
+- Data quality and validation systems
+- SFTP and API integrations
+
+**GIS & Spatial Analysis**
+- Geospatial data processing
+- Pipeline and infrastructure mapping
+- Spatial database management
+- Web mapping applications
+
+**Backend Development**
+- RESTful API design
+- Database architecture
+- Web application development
+- Process automation
+
+---
+
+## 🏆 Key Skills
+
+**Hard Skills:** Machine Learning • Deep Learning • Big Data Processing • ETL Pipelines • Healthcare Analytics • GIS Processing • Backend Development • Database Design • API Development • IoT with Microcontrollers • Data Validation • SFTP Integration
+
+**Soft Skills:** Leadership • Teamwork • Critical Thinking • Problem Solving • Creativity • Proactive • Empathy • Project Management
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Neural Networks with TensorFlow
+- Apache Spark for Big Data processing
 - Cloud Computing (AWS, GCP)
 - Kubernetes & Container Orchestration
-- Apache Spark for Big Data
 - GraphQL APIs
+- Real-time data streaming with Kafka
 
 ---
 
@@ -253,7 +340,7 @@ const daniel = {
 
 <div align="center">
 
-### "Ideas are the engine of progress; let's create ideas together!" 💡
+### "Building the future of healthcare through data and AI" 💡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Daniromero1410&color=blueviolet&style=for-the-badge)
 
