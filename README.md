@@ -2,7 +2,7 @@
 
 # Daniel Alejandro Romero Moreno
 
-### Software Engineering Student | ML & Data Science Enthusiast | Backend Developer
+### Software Engineer | ML & Data Science Enthusiast | Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniromerosoftware)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielromero.software@gmail.com)
@@ -18,7 +18,7 @@
 ```python
 class DanielRomero:
     def __init__(self):
-        self.current_role = "Software Engineering Student @ UDES"
+        self.current_role = "Software Engineer"
         self.location = "Bucaramanga, Colombia 🇨🇴"
         self.exchange = "Technical University of Riga 🇱🇻 (Jan-Jul 2025)"
         self.languages = ["Spanish (Native)", "English (B2)"]
