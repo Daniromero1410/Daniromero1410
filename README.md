@@ -104,11 +104,11 @@ class DanielRomero:
 📍 Healthcare Provider Network Management
 
 **What I do:**
-- 📊 Develop **ETL pipelines** processing **100,000+ healthcare records**
-- 🤖 Build **ML models** for provider network analytics and optimization
-- ✅ Implement **automated data validation** and quality control systems
-- 🗺️ Create **GIS tools** for spatial analysis of medical services
-- 📈 Design **data consolidation systems** for healthcare tariff management
+- Develop **ETL pipelines** processing **100,000+ healthcare records**
+- Build **ML models** for provider network analytics and optimization
+- Implement **automated data validation** and quality control systems
+- Create **GIS tools** for spatial analysis of medical services
+- Design **data consolidation systems** for healthcare tariff management
 
 **Key Project:** T25 Healthcare Consolidator
 - Automated extraction and validation of medical service tariffs
